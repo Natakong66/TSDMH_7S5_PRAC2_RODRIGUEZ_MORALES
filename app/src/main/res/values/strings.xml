@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_PRAC2</string>
+    <string name="Titulo">Splash screen</string>
+    <string name="Mensajep1">Espere 5 seg para cambio de pantalla</string>
+    <string name="Titulop2">Menu de Opciones</string>
+    <string name="p2nombre">ingresa tu nombre</string>
+    <string name="p2h1nombre">aqui tu nombre</string>
+    <string name="p2btnsaluda">saluda</string>
+</resources>
